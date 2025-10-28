@@ -1,2 +1,2 @@
-# DevFront-ExpI
-Repositorio para a experiencia pratica I da materia Desenvolvimento Front-end Para Web
+# Experiencia prática de Desenvolvimento Web Front-end
+Repositorio para a entrega das experiencias praticas da materia Desenvolvimento Front-end Para Web
