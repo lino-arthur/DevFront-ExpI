@@ -1,0 +1,2 @@
+A proposta da experiência prática I foi criar um site para uma ONG oferencendo um design mais profissional.
+Neste propósito foi criado uma ONG ficticia de resgate de animais abandonados chamada Guardiões do Resgate, este primeiro modelo foi utilizado linguagem HTML com CSS para os 3 sites principais que serão expandidos posteriormente, e um javascript simples apenas para formatar corretamente dados digitados no formulário.
